@@ -1,0 +1,25 @@
+.ColorPicker {
+  button {
+    border: none;
+    padding: 2em;
+
+    cursor: pointer;
+  }
+
+  div {
+    width: 100px;
+    height: 100px;
+  }
+
+  .red {
+    background-color: red;
+  }
+
+  .green {
+    background-color: green;
+  }
+
+  .blue {
+    background-color: blue;
+  }
+}
